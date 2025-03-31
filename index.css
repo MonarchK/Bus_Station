@@ -47,6 +47,7 @@ footer{
     position: fixed;
     bottom: 0;
     left: 30vw;
+    margin-right: 20px;
 }
 
 ul{
@@ -74,6 +75,7 @@ a{
     position: fixed;
     bottom: 0;
     right: 0;
+    margin-bottom: 8px;
 }
 
 @media only screen and (min-width: 961px){
